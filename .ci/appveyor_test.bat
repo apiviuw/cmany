@@ -16,3 +16,5 @@ set stat=%ERRORLEVEL%
 cd %orig%
 
 exit /b %stat%
+connect
+https://simponi.kemenkeu.go.id/aktifreg/konemailreg/VG1wT2JVNVVTbTFOYlVsM1RYcENiVnBVVlRSTmFsWnJUbXBzYkU5VVFtaE9WMWt3V21wYWJFMUVaejA9/V1c1T2VtSm5QVDA9/WVZjMU1scFlUakJpTTBrOQ==/WWpOV01HSkhPWFpoZVRWcVluazFjRnBCUFQwPQ==https://simponi.kemenkeu.go.id/aktifreg/konemailreg/VG1wT2JVNVVTbTFOYlVsM1RYcENiVnBVVlRSTmFsWnJUbXBzYkU5VVFtaE9WMWt3V21wYWJFMUVaejA9/V1c1T2VtSm5QVDA9/WVZjMU1scFlUakJpTTBrOQ==/WWpOV01HSkhPWFpoZVRWcVluazFjRnBCUFQwPQ==https://simponi.kemenkeu.go.id/aktifreg/konemailreg/VG1wT2JVNVVTbTFOYlVsM1RYcENiVnBVVlRSTmFsWnJUbXBzYkU5VVFtaE9WMWt3V21wYWJFMUVaejA9/V1c1T2VtSm5QVDA9/WVZjMU1scFlUakJpTTBrOQ==/WWpOV01HSkhPWFpoZVRWcVluazFjRnBCUFQwPQ==
